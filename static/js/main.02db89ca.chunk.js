@@ -1,0 +1,2 @@
+(this.webpackJsonpthegwang21githubio=this.webpackJsonpthegwang21githubio||[]).push([[0],{10:function(t,e,n){},11:function(t,e,n){"use strict";n.r(e);var c=n(0),i=n(1),o=n.n(i),r=n(3),s=n.n(r);n(9),n(10);var a=function(){return Object(c.jsx)("div",{className:"App",children:Object(c.jsx)("p",{children:"Hello React JS"})})};s.a.render(Object(c.jsx)(o.a.StrictMode,{children:Object(c.jsx)(a,{})}),document.getElementById("root"))},9:function(t,e,n){}},[[11,1,2]]]);
+//# sourceMappingURL=main.02db89ca.chunk.js.map
